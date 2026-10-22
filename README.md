@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/header.jpg" width="100%" alt="Fall Guys">
-
 ### 🏁 RUN · DODGE · DIVE · QUALIFY
 
 **Round Guide · Obstacle Tips · Movement Practice · Squad Planner · Match Tracker**
